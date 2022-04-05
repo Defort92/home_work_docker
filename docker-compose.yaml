@@ -1,0 +1,17 @@
+version: '3'
+
+services:
+  app:
+    image: defort/this_is_realy_annoing:latest
+    build:
+      context: .
+    ports:
+      - 8000:8000
+    environment:
+      ENDURANCE: 100
+      STRENGTH: 100
+      INTELLIGENCE: 100
+      START_HP: 999999
+      STARTED: "True"
+      MAX_PARAMS_AMOUNT: 300
+    restart: always
