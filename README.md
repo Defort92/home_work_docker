@@ -8,4 +8,4 @@ quest... well, straight "leave the room"
 4) Следовать инструкции
 5) Добавить файл 
 `answer.txt` в volume
-На сайте `https://planetcalc.ru/2468/`
+и перевести на сайте `https://planetcalc.ru/2468/`
